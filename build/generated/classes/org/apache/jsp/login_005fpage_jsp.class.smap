@@ -1,0 +1,20 @@
+SMAP
+login_005fpage_jsp.java
+JSP
+*S JSP
+*F
++ 0 login_page.jsp
+login_page.jsp
++ 1 normal_navbar.jsp
+normal_navbar.jsp
+*L
+5,25:50
+1#1,38:75
+29#0,14:113
+43,3:128
+45:131
+46,2:132,3
+48,4:138
+52,3:143
+54,36:146
+*E
